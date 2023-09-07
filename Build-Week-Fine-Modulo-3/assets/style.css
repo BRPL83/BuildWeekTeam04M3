@@ -1,0 +1,17 @@
+.card-img-top {
+    width: 225px;
+    height: 175px; /* Imposta la larghezza al 100% per adattarla alla larghezza della card */
+}
+
+/* Applica un bordo rotondo alle immagini all'interno delle card */
+.card-img-top.rounded {
+    border-radius: 20px; /* Modifica il valore a seconda della quantità di arrotondamento desiderata */
+}
+
+.custom-small-text {
+    font-size: 13px; /* Specifica la dimensione del carattere desiderata */
+}
+#custom-small-text {
+    font-size: 14px; /* Specifica la dimensione del carattere desiderata */
+}
+
